@@ -32,3 +32,6 @@
   * target="_blank" 는 링크 클릭시 새창에서 열림
   * title="내용 미리보기" 링크 내용 툴팁으로 보여줌
   * 그 다음 글 = 글자에 하이퍼링크 담김
+
+* 동영상: ```<iframe width="560" height="315" src="https://www.youtube.com/embed/jSJM9iOiQ1g" frameborder="0" allowfullscreen></iframe>```
+  *
