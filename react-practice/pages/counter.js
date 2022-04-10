@@ -12,6 +12,6 @@ const CounterPage = () => {
         </div>
     );
 }
-
+ 
 //export = 내보냄
 export default CounterPage;
