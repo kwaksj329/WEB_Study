@@ -6,6 +6,9 @@ const userName = "xoxristine";
 const IndexPage = () => 
     <div>
         <p>hello world {userName}</p>
+        <Link href="/counter">
+            <a>Counter</a>
+        </Link>
     </div>;
 
 export default IndexPage;
