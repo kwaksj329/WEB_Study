@@ -4,7 +4,7 @@ import React, {useState} from "react";
 import Counter from "../components/Counter";
 
 const CounterPage = () => {
-
+    // 0 : 초기값
     const [count, setCount] = useState(0);
     return (
         <div>
