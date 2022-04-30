@@ -1,0 +1,27 @@
+[
+  {
+     "id":"jo",
+     "pw":"1234",
+     "follow":["jp","chan","jun"]
+  },
+  {
+    "id":"su",
+    "pw":"999999",
+    "follow":["jo","jun"]
+  },
+  {
+    "id":"jp",
+    "pw":"1234",
+    "follow":["chan"]
+  },
+  {
+    "id":"chan",
+    "pw":"1234",
+    "follow":["jun","su"]
+  },
+  {
+    "id":"jun",
+    "pw":"123456",
+    "follow":["jo","chan"]
+  }
+]
